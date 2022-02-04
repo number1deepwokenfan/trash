@@ -1,0 +1,219 @@
+local amountnotifications = loadstring(game:HttpGet(("https://raw.githubusercontent.com/AbstractPoo/Main/main/Notifications.lua"),true))()
+
+
+local Tax = game:GetService("Workspace").CountryData["Australia"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Australia"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Australia"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Australia"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Australia"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Australia"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Australia"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal1 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Bangladesh"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Bangladesh"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Bangladesh"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Bangladesh"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Bangladesh"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Bangladesh"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Bangladesh"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal2 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Canada"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Canada"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Canada"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Canada"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Canada"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Canada"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Canada"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal3 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Chile"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Chile"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Chile"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Chile"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Chile"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Chile"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Chile"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal4 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["France"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["France"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["France"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["France"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["France"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["France"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["France"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal5 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Iraq"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Iraq"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Iraq"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Iraq"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Iraq"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Iraq"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Iraq"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal6 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Italy"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Italy"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Italy"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Italy"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Italy"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Italy"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Italy"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal7 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Malaysia"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Malaysia"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Malaysia"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Malaysia"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Malaysia"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Malaysia"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Malaysia"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal8 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Morocco"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Morocco"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Morocco"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Morocco"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Morocco"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Morocco"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Morocco"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal9 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Peru"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Peru"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Peru"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Peru"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Peru"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Peru"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Peru"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal10 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Poland"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Poland"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Poland"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Poland"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Poland"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Poland"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Poland"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal11 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Spain"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Spain"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Spain"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Spain"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Spain"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Spain"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Spain"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal12 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Sudan"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Sudan"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Sudan"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Sudan"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Sudan"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Sudan"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Sudan"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal13 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Taiwan"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Taiwan"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Taiwan"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Taiwan"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Taiwan"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Taiwan"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Taiwan"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal14 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Thailand"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Thailand"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Thailand"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Thailand"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Thailand"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Thailand"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Thailand"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal15 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Ukraine"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Ukraine"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Ukraine"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Ukraine"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Ukraine"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Ukraine"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Ukraine"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal16 = (TotalBalance2/81600)
+
+local Tax = game:GetService("Workspace").CountryData["Venezuela"].Economy.Tax.Value
+local Upkeep = game:GetService("Workspace").CountryData["Venezuela"].Economy.Upkeep.Value
+local TaxResource = game:GetService("Workspace").CountryData["Venezuela"].Economy.TaxResource.Value
+local ResearchSpending = game:GetService("Workspace").CountryData["Venezuela"].Economy.ResearchSpending.Value
+local StabilitySpending = game:GetService("Workspace").CountryData["Venezuela"].Economy.StabilitySpending.Value
+local Reinforcement = game:GetService("Workspace").CountryData["Venezuela"].Economy.Reinforcement.Value
+local BuildingExpenses = game:GetService("Workspace").CountryData["Venezuela"].Economy.BuildingExpenses.Value
+--calculating electronics
+local TotalBalance = (Tax + TaxResource - Upkeep - ResearchSpending - StabilitySpending - Reinforcement - BuildingExpenses)
+local TotalBalance2 = (TotalBalance * 0.789)
+local ElectronicsBal17 = (TotalBalance2/81600)
+
+--calculating ze total
+
+local totalelectronic =  (ElectronicsBal1 + ElectronicsBal2 + ElectronicsBal3 + ElectronicsBal4 + ElectronicsBal5 + ElectronicsBal6 + ElectronicsBal7 + ElectronicsBal8 + ElectronicsBal9 + ElectronicsBal10 + ElectronicsBal11 + ElectronicsBal12 + ElectronicsBal13 + ElectronicsBal14 + ElectronicsBal15 + ElectronicsBal16 + ElectronicsBal17)
+
+amountnotifications:notify{
+    Title = "Notifications showcase",
+    Description = totalelectronic,
+    Accept = {
+        Text = "Done"
+    },
+    Length = 10
+}
